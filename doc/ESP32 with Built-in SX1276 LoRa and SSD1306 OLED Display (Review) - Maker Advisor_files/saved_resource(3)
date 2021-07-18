@@ -1,0 +1,38 @@
+
+var ftGUID_4215900="4370927A80FE58";
+var ftConfID_4215900="0";
+var ftParams_4215900="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2F344946d38d11e68b9ca74819037c9349.safeframe.googlesyndication.com%2Fsafeframe%2F1-0-38%2Fhtml%2Fcontainer.html&cachebuster=159270.15586250403";
+var ftKeyword_4215900="";
+var ftCustom_4215900="";
+var ftSection_4215900="";
+var ftSegment_4215900="w2c,um2,afr5,agel,ag39,ahb9";
+var ftSegmentList_4215900=[{s:'w2c'},{s:'um2'},{s:'afr5'},{m:'c8562_products',s:'agel'},{s:'ag39'},{s:'ahb9'}];
+var ftRuleMatch_4215900="0";
+var ftTimestamp_4215900="1626621767";
+var ftGeoC2_4215900="th";
+var ftGeoState_4215900="10";
+var ftGeoCity_4215900="min buri";
+var ftISP_4215900="true internet corporation co. ltd.";
+var ftSpeed_4215900="broadband";
+var ftDMA_4215900="-1";
+var ftLong_4215900="100.73";
+var ftLat_4215900="13.81";
+var ftPostal_4215900="10510";
+var ftTimeZone_4215900="700";
+var ftMobileCarrier_4215900="";
+var ftImp4215900 = {};
+ftImp4215900.privacy = "x";
+ftImp4215900.guidAge = "577";
+ftImp4215900.impID = "792BCB8F-C4A2-FDD7-7D3C-4D85C7DF2F2C";
+ftImp4215900.duid = "FT:4370927A80FE58";
+
+ftImp4215900.ft_tpplid = "";
+ftImp4215900.ft_c = {};
+ftImp4215900.gdpr = "";
+ftImp4215900.gdpr_consent = "";
+ftImp4215900.gdpr_pd = "";
+ftImp4215900.oob_consent = "0";
+ftImp4215900.gdprStoredConsent = "";
+ftImp4215900.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/421/4215900/3504309/js/j-4215900-3504309.js" id="ftscript_m4215900" name="ftscript_m4215900"></scr'+'ipt>');
